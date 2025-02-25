@@ -1,7 +1,7 @@
 import requests
 
 # Define the API endpoint and image path
-url = 'http://127.0.0.1:5000/ocr'
+url = 'http://127.0.0.1:6000/ocr'
 image_path = '/Users/bs1155/Desktop/projects/newOcrPy/images/first.jpeg' 
 
 # Send a POST request to the API
