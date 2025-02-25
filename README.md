@@ -7,7 +7,7 @@
 ## Output
 
 ```bash
-🚀 ~ WhatsappController ~ processImageFiles ~ pyRes: bexegpta Pharmaceuticals Ltd
+bexegpta Pharmaceuticals Ltd
 MQ Bhahid Tayuddin Anmed
 
 Seren. Teygaon I/A
